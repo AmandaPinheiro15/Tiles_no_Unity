@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: steamPunck_v01_14
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300028, guid: abb053346775ca9488ea590bba1bb9fd, type: 3}
+  m_Sprite: {fileID: 21300028, guid: 79eeed8a51807ce4f9f69d6f7d48bcc9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
